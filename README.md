@@ -1,1 +1,1 @@
-()["/methodology.png"]
+(img)[src="methodology.png"]
