@@ -1,1 +1,1 @@
-(img)[src="methodology.png"]
+<img src="./methodology.png">
